@@ -31,7 +31,7 @@
 ## Distribución de objetivos por semana
 
 ### Semana 1
-- **SCRUM:** Leer primeras secciones del libro.
+- **SCRUM:** Continuear con el libro.
 - **JAVA:** Introducción a JPA y CRUD básico.
 - **REACT:** Conceptos básicos de Hooks y componentes funcionales.
 
